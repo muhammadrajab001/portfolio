@@ -5,8 +5,8 @@ export default function MyPortfolio() {
     <section className="portfolio--section" id="MyPortfolio">
       <div className="portfolio--container-box">
         <div className="portfolio--container">
-          <p className="sub--title">Recent Projects</p>
-          <h2 className="section--heading">My Portfolio</h2>
+          <p className="sub--title">Недавние Проекты</p>
+          <h2 className="section--heading">Мое Портфолио</h2>
         </div>
         <div>
           <button className="btn btn-github">
@@ -16,6 +16,7 @@ export default function MyPortfolio() {
               height="32"
               viewBox="0 0 33 33"
               fill="none"
+              link='https://github.com/muhammadrajab001'
             >
               <path
                 fill-rule="evenodd"
@@ -24,7 +25,7 @@ export default function MyPortfolio() {
                 fill="currentColor"
               />
             </svg>
-            Visit My GitHub
+            Visit My GitHub https://github.com/muhammadrajab001
           </button>
         </div>
       </div>

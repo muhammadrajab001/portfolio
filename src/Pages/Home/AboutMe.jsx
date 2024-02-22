@@ -7,17 +7,21 @@ export default function AboutMe() {
       <div className="hero--section--content--box about--section--box">
         <div className="hero--section--content">
           <p className="section--title">About</p>
-          <h1 className="skills-section--heading">About Me</h1>
+          <h1 className="skills-section--heading">Обо мне</h1>
           <p className="hero--section-description">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem
-            officiis sit debitis omnis harum sed veniam quasi dicta accusamus
-            recusandae? Voluptatem, reprehenderit alias? Eligendi aperiam
-            tempora numquam sint odit optio.
+            
+Всегда интересовался сферой IT (программировал на  C#), планирую дальше развиваться в сторону веб-разработки. Уже хорошо освоил вёрстку и JavaScript, на данный момент изучаю Full stack – разработчика
+Параллельно прохожу курсы на Школа GeekBrains по Full stack.
+
+
+К своим сильным сторонам могу отнести навыки работы в команде, желание найти максимально результативное и красивое решение, способность самостоятельно искать ресурсы, помогающие решить проблему или повысить мой профессиональный уровень, сильный интерес к разработке интерфейсов.
+
+     
           </p>
           <p className="hero--section-description">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem
-            officiis sit debitis omnis harum sed veniam quasi dicta accusamus
-            recusandae?
+          Рассматриваю стажировку, проектную деятельность, работу в офисе,
+Работу удаленка 
+
           </p>
         </div>
       </div>
