@@ -4,15 +4,15 @@
       "id": "1",
       "src": "./img/product-chain-1.png",
       "title": "Frontend",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "description": "React+Redux TypeScript Работа со сторонними API php msql Настройка сборки в  Webpack JavaScript "
+     
     },
     {
       "id": "2",
       "src": "./img/tag-1.png",
       "title": "Веб-разработчик",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "description": "Работа с системами контроля версий (Git) HTML5, CSS3 Адаптивная, кроссбраузерная, семантическая верстка Работа с макетами в pisxo, Figma "
     }
- 
   ],
   "portfolio": [
     {
